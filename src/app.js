@@ -1,5 +1,7 @@
 import { Component } from 'react'
 import './app.scss'
+import 'taro-ui/dist/style/index.scss'
+import config from '../config'
 
 class App extends Component {
 
